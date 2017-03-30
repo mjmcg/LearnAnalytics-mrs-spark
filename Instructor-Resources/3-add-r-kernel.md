@@ -2,7 +2,7 @@
 
 
 1. Get to head node’s terminal (either ssh or through jupyter terminal): 
-	![](jupyter-terminal.png)
+	![](jupyter-terminal.jpg)
 2. Start an R Session: `R`.
 3. Run the following
 
@@ -31,4 +31,4 @@ IRkernel::installspec()  # to register the kernel in the current R installation
 
 You should now see R in the as a kernel.
 
-![](R-kernel.png)
+![](R-kernel.jpg)
